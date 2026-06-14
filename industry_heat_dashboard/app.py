@@ -135,14 +135,14 @@ st.markdown("""
 
 Use the **sidebar** to navigate between the three sections:
 
-- ** European Overview** — Choropleth map of energy consumption across EU27. Filter by sector, subsector and year to see how industrial heat demand is distributed geographically.
+- European Overview — Choropleth map of energy consumption across EU27. Filter by sector, subsector and year to see how industrial heat demand is distributed geographically.
 
-- ** Country Profile** — Select a country and explore its full industrial energy breakdown — by sector, fuel mix, and how it sits relative to the EU27 average.
+- Country Profile — Select a country and explore its full industrial energy breakdown — by sector, fuel mix, and how it sits relative to the EU27 average.
 
-- ** Deep Dive** — The most granular view. Compare countries, sectors, subsectors and processes. Track how consumption evolved from 2000 to 2023.
+- Deep Dive — The most granular view. Compare countries, sectors, subsectors and processes. Track how consumption evolved from 2000 to 2023.
 
 ---
 
-**Data source:** JRC-IDEES 2023 — Joint Research Centre Integrated Database of the European Energy System  
-**Unit:** Final energy consumption in TWh (converted from ktoe; 1 ktoe = 0.01163 TWh)  
+Data source: JRC-IDEES 2023 — Joint Research Centre Integrated Database of the European Energy System  
+Unit: Final energy consumption in TWh (converted from ktoe; 1 ktoe = 0.01163 TWh)  
 """)
